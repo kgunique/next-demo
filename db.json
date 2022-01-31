@@ -1,0 +1,121 @@
+{
+  "events":[
+    {
+      "id":1,
+      "title":"Event 1",
+      "description":"Description 1",
+      "category":"Sports",
+      "data":"Aprill 25"
+    },
+    {
+      "id":2,
+      "title":"Event 2",
+      "description":"Description 2",
+      "category":"Technology",
+      "data":"March 25"
+    },
+    {
+      "id":3,
+      "title":"Event 3",
+      "description":"Description 3",
+      "category":"Food",
+      "data":"May 25"
+    },
+    {
+      "id":4,
+      "title":"Event 4",
+      "description":"Description 4",
+      "category":"Sports",
+      "data":"June 25"
+    },
+    {
+      "id":5,
+      "title":"Event 5",
+      "description":"Description 5",
+      "category":"Entertainment",
+      "data":"July 25"
+    },
+    {
+      "id":6,
+      "title":"Event 6",
+      "description":"Description 6",
+      "category":"Sports",
+      "data":"August 25"
+    },
+    {
+      "id":7,
+      "title":"Event 7",
+      "description":"Description 7",
+      "category":"Sports",
+      "data":"September 25"
+    },
+    {
+      "id":8,
+      "title":"Event 8",
+      "description":"Description 8",
+      "category":"Sports",
+      "data":"October 25"
+    },
+    {
+      "id":9,
+      "title":"Event 9",
+      "description":"Description 9",
+      "category":"Sports",
+      "data":"November 25"
+    },
+    {
+      "id":10,
+      "title":"Event 10",
+      "description":"Description 10",
+      "category":"Sports",
+      "data":"december 25"
+    }
+  ],
+  "dashboard": {
+      "post":5,
+      "likes":100,
+      "comment":122,
+      "share":12
+    },
+  "news":[
+    {
+      "id": 1,
+      "title":"sport News 1",
+      "description": "sport Description 1",
+      "category":"sport"
+    },
+    {
+      "id": 2,
+      "title":" crime News 2",
+      "description": "crime Description 2",
+      "category":"crime"
+    },
+    {
+      "id": 3,
+      "title":"sport News 3",
+      "description": "sport Description 3",
+      "category":"sport"
+    }
+   
+  ],
+  "products":[
+    {
+      "id": 1,
+      "name":"product 1",
+      "price": 200,
+      "description":"Description 1"
+    },
+    {
+      "id": 2,
+      "name":"product 2",
+      "price": 400,
+      "description":"Description 2"
+    },
+    {
+      "id": 3,
+      "name":"product 3",
+      "price": 400,
+      "description":"Description 3"
+    }
+  ]
+}
